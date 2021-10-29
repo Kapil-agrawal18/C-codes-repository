@@ -1,3 +1,7 @@
+// Total Number of chocolate we can buy if we are having x money abd cost 
+//of one chocolate is y and we can byu 1 chocolate from n wrapper
+//so we have to generate a code to calculate the number of chocolate we can buy .
+
 #include <bits/stdc++.h>
 
 using namespace std;
